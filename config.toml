@@ -1,7 +1,7 @@
 baseURL = "http://example.org"
 languageCode = "en-us"
 title = "MoonPie Games"
-theme = "PaperMod"
+theme = "archie"
 
 [markup.goldmark.renderer]
 unsafe = true # Allow HTML in md files
