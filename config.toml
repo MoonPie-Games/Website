@@ -11,6 +11,24 @@ bio = "Software and game developer"
 description = "Official website of MoonPie Games"
 copyright = "MoonPie Games"
 pager = true
+mainSections = ["posts"]
+
+[Params.sidebar]
+home = "right" # Configure layout for home page
+list = "left"  # Configure layout for list pages
+single = false # Configure layout for single pages
+widgets = ["social"]
+
+[Params.widgets.social]
+  # Enable parts of social widget
+  youtube = "https://www.youtube.com/channel/UCKOZQkjfEqQvM2DhFS0yBCww"
+  github = "JefffTheK"
+  email = "moonpie.public@gamil.com"
+
+# Custom social links
+[[Params.widgets.social.custom]]
+  title = "YouTube"
+  url = "https://www.youtube.com/channel/UCKOZQkjfEqQvM2DhFS0yBCww"
 
 [markup.goldmark.renderer]
 unsafe = true # Allow HTML in md files
