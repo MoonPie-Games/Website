@@ -4,9 +4,9 @@ date: 2022-12-05T22:26:37+02:00
 draft: false
 unlisted: true
 aliases: [
-    "asylum_insanity/privacy_policy",
-    "dot_text/privacy_policy",
-    "jet_fighter/privacy_policy"
+    "posts/asylum_insanity/privacy_policy",
+    "posts/dot_text/privacy_policy",
+    "posts/jet_fighter/privacy_policy"
 ]
 ---
 
