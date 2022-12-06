@@ -24,7 +24,7 @@ subtitle = "Designing the future"
 home = "right" # Configure layout for home page
 list = "left"  # Configure layout for list pages
 single = false # Configure layout for single pages
-widgets = ["social"]
+widgets = ["search", "recent", "social"]
 
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
@@ -45,6 +45,12 @@ widgets = ["social"]
 [[Params.widgets.social.custom]]
   title = "Play Market"
   url = "https://play.google.com/store/apps/dev?id=8610739840761695390&hl=ru&gl=US"
+
+[Params.widgets.search]
+  url = "https://google.com/search"
+  [Params.widgets.search.input]
+    name = "sitesearch"
+    pre = ""
 
 [markup.goldmark.renderer]
 unsafe = true # Allow HTML in md files
