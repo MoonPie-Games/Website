@@ -1,4 +1,4 @@
-baseURL = "http://example.org"
+baseURL = "/"
 languageCode = "en-us"
 title = "MoonPie Games"
 theme = "mainroad"
@@ -16,6 +16,7 @@ mainSections = ["posts"]
 schema = true # Enable Schema
 
 [Params.logo]
+image = "images/logo.png"
 title = "MoonPie Games"
 subtitle = "Designing the future"
 
