@@ -30,5 +30,9 @@ widgets = ["social"]
   title = "YouTube"
   url = "https://www.youtube.com/channel/UCKOZQkjfEqQvM2DhFS0yBCww"
 
+[[Params.widgets.social.custom]]
+  title = "Play Market"
+  url = "https://play.google.com/store/apps/dev?id=8610739840761695390&hl=ru&gl=US"
+
 [markup.goldmark.renderer]
 unsafe = true # Allow HTML in md files
