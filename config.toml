@@ -35,7 +35,7 @@ widgets = ["search", "recent", "social"]
   # Enable parts of social widget
   youtube = "https://www.youtube.com/channel/UCKOZQkjfEqQvM2DhFS0yBCww"
   github = "JefffTheK"
-  email = "moonpie.public@gamil.com"
+  email = "moonpie.public@gmail.com"
 
 # Custom social links
 [[Params.widgets.social.custom]]
