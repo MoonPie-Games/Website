@@ -3,5 +3,14 @@ languageCode = "en-us"
 title = "MoonPie Games"
 theme = "mainroad"
 
+[Author]
+name = "Dmytro Kolibabchuk"
+bio = "Software and game developer"
+
+[Params]
+description = "Official website of MoonPie Games"
+copyright = "MoonPie Games"
+pager = true
+
 [markup.goldmark.renderer]
 unsafe = true # Allow HTML in md files
