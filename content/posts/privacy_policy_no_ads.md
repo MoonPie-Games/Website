@@ -2,6 +2,7 @@
 title: "Privacy Policy"
 date: 2022-12-05T22:24:19+02:00
 draft: false
+unlisted: true
 aliases: [
     "calculator/privacy_policy"
 ]
