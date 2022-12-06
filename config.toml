@@ -13,6 +13,10 @@ copyright = "MoonPie Games"
 pager = true
 mainSections = ["posts"]
 
+[Params.logo]
+title = "MoonPie Games"
+subtitle = "Designing the future"
+
 [Params.sidebar]
 home = "right" # Configure layout for home page
 list = "left"  # Configure layout for list pages
