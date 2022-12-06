@@ -4,6 +4,9 @@ date: 2022-12-06T14:49:40+02:00
 draft: false
 categories:
   - "App"
+tags:
+  - "Utility"
+  - "Math"
 ---
 
 ## About
