@@ -2,6 +2,8 @@
 title: "Asylum Insanity"
 date: 2022-12-05T22:02:17+02:00
 draft: false
+categories:
+  - "Game"
 ---
 
 ## About

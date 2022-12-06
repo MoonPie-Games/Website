@@ -2,6 +2,8 @@
 title: "Jet Fighter"
 date: 2022-12-05T21:54:36+02:00
 draft: false
+categories:
+    - "Game"
 ---
 
 ## About

@@ -25,7 +25,7 @@ subtitle = "Designing the future"
 home = "right" # Configure layout for home page
 list = "left"  # Configure layout for list pages
 single = "right" # Configure layout for single pages
-widgets = ["search", "recent", "social"]
+widgets = ["search", "recent", "social", "categories"]
 
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
