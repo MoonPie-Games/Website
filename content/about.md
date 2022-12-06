@@ -2,6 +2,9 @@
 title: "About"
 date: 2022-12-06T12:04:12+02:00
 draft: false
+menu:
+    main:
+        name: "About"
 ---
 
 Since the beginning of our career, we’ve focused on channeling our talent and creativity into meaningful and powerful results. We pride in the work we do, as well as the strong relationships we’ve built with clients and colleagues. We firmly believe in working hard, working together and having fun along the way. If you’re interested in learning more about us or our work, simply reach out
@@ -20,4 +23,4 @@ We've also created a variety of graphical and terminal based software. I have a 
 
 ## TOOLS WE USE
 
-Below is a collection of different tools that weve used throughout our career
+Below is a collection of different tools that we've used throughout our career

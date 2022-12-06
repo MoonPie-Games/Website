@@ -14,6 +14,7 @@ copyright = "MoonPie Games"
 pager = true
 mainSections = ["posts"]
 schema = true # Enable Schema
+opengraph = true
 
 [Params.logo]
 image = "images/logo.png"
@@ -23,7 +24,7 @@ subtitle = "Designing the future"
 [Params.sidebar]
 home = "right" # Configure layout for home page
 list = "left"  # Configure layout for list pages
-single = false # Configure layout for single pages
+single = "right" # Configure layout for single pages
 widgets = ["search", "recent", "social"]
 
 [Params.widgets]
