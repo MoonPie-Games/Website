@@ -1,0 +1,43 @@
+<svg
+   fill="#000000"
+   viewBox="0 0 24 24"
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="youtube.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="18.649941"
+     inkscape:cx="10.348558"
+     inkscape:cy="7.613965"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <defs
+     id="defs8" />
+  <path
+     d="M 22.7744,9.3033728 C 22.56528,8.1491222 21.568894,7.308549 20.412594,7.046126 18.682241,6.6791433 15.479862,6.4167208 12.015059,6.4167208 8.5523055,6.4167208 5.2986722,6.6791433 3.5662692,7.046126 2.4120199,7.308549 1.4135825,8.0958174 1.2044635,9.3033728 0.99329527,10.615487 0.78417627,12.452448 0.78417627,14.814254 c 0,2.361806 0.209119,4.198768 0.47154203,5.510882 0.2111683,1.15425 1.2075555,1.994824 2.3618064,2.257246 1.8369602,0.366983 4.9860355,0.629406 8.4508403,0.629406 3.464803,0 6.613876,-0.262423 8.450838,-0.629406 1.15425,-0.262422 2.150636,-1.049691 2.361807,-2.257246 0.209116,-1.312114 0.471539,-3.20238 0.524845,-5.510882 C 23.299239,12.452448 23.036822,10.615487 22.7744,9.3033728 Z M 9.1817117,18.488176 v -7.347843 l 6.4027093,3.673921 z"
+     id="path2"
+     style="fill:#ffffff;stroke-width:0.524846" />
+  <path
+     style="opacity:1;fill:#000000;stroke:#fbfbfb;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+     d="m 9.177582,11.138487 6.405008,3.673801 -6.3991994,3.674297 z"
+     id="path224" />
+</svg>

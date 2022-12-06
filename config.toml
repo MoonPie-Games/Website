@@ -39,6 +39,7 @@ widgets = ["search", "recent", "social"]
 
 # Custom social links
 [[Params.widgets.social.custom]]
+  icon = "images/youtube.svg"
   title = "YouTube"
   url = "https://www.youtube.com/channel/UCKOZQkjfEqQvM2DhFS0yBCww"
 
