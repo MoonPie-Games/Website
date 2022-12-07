@@ -34,7 +34,6 @@ widgets = ["search", "recent", "social", "categories", "taglist"]
 
 [Params.widgets.social]
   # Enable parts of social widget
-  youtube = "https://www.youtube.com/channel/UCKOZQkjfEqQvM2DhFS0yBCww"
   github = "JefffTheK"
   email = "moonpie.public@gmail.com"
 
@@ -42,7 +41,7 @@ widgets = ["search", "recent", "social", "categories", "taglist"]
 [[Params.widgets.social.custom]]
   icon = "images/youtube.svg"
   title = "YouTube"
-  url = "https://www.youtube.com/channel/UCKOZQkjfEqQvM2DhFS0yBCww"
+  url = "https://www.youtube.com/channel/UCKOZQkjfEqQvM2DhFS0yBCw"
 
 [[Params.widgets.social.custom]]
   title = "Play Market"
