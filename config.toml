@@ -44,6 +44,7 @@ widgets = ["search", "recent", "social", "categories", "taglist"]
   url = "https://www.youtube.com/channel/UCKOZQkjfEqQvM2DhFS0yBCw"
 
 [[Params.widgets.social.custom]]
+  icon = "images/play_market.svg"
   title = "Play Market"
   url = "https://play.google.com/store/apps/dev?id=8610739840761695390&hl=ru&gl=US"
 
