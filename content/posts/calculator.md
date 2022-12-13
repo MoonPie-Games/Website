@@ -7,6 +7,7 @@ categories:
 tags:
   - "Utility"
   - "Math"
+thumbnail: "calculator/feature_graphic.png"
 ---
 
 ## About
@@ -27,3 +28,9 @@ A free calculator app with a clean interface and no ads.
 
 <button onclick="location.href='https://play.google.com/store/apps/details?id=com.moonpiegames.calculator'" type="button">
         Android</button>
+
+## Screenshots
+
+<img src="/calculator/screenshot01.jpeg" alt="img" width="200"/>
+<img src="/calculator/screenshot04.jpeg" alt="img" width="200"/>
+<img src="/calculator/screenshot05.jpeg" alt="img" width="200"/>
