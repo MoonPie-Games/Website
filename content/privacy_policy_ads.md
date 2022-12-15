@@ -6,7 +6,8 @@ unlisted: true
 aliases: [
     "posts/asylum_insanity/privacy_policy",
     "posts/dot_text/privacy_policy",
-    "posts/jet_fighter/privacy_policy"
+    "posts/jet_fighter/privacy_policy",
+    "posts/minesweeper/privacy_policy"
 ]
 ---
 
