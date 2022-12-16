@@ -8,6 +8,7 @@ tags:
   - "3D"
   - "Horror"
   - "Survival"
+thumbnail: "asylum_insanity2/Screenshot06.jpg"
 ---
 
 ## About
@@ -24,3 +25,9 @@ Sequel to the [Asylum Insanity](/posts/asylum_insanity), a 3D survival horror ga
 
 <button onclick="location.href='https://drive.google.com/file/d/1haGIXv_204WBuoiV-6SE9wdTeRObSVeP/view?usp=sharing'" type="button">
         Mac</button>
+
+## Screenshots
+
+<img src="/asylum_insanity2/Screenshot01.png" alt="img" width="400"/>
+<img src="/asylum_insanity2/Screenshot04.png" alt="img" width="400"/>
+<img src="/asylum_insanity2/Screenshot05.jpg" alt="img" width="400"/>
