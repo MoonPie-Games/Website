@@ -8,6 +8,7 @@ tags:
   - "3D"
   - "Horror"
   - "Survival"
+thumbnail: "asylum_insanity/Screenshot04.jpg"
 ---
 
 ## About
@@ -26,3 +27,9 @@ Unity horror game in which you explore an abandoned asylum.
 
 <button onclick="location.href='https://drive.google.com/file/d/10oFAJQPZ56NlX-FrzVQGmK1kwfjViTEN/view?usp=sharing'" type="button">
         Linux</button>
+
+## Screenshots
+
+<img src="/asylum_insanity/Screenshot01.jpg" alt="img" width="400"/>
+<img src="/asylum_insanity/Screenshot02.jpg" alt="img" width="400"/>
+<img src="/asylum_insanity/Screenshot03.jpg" alt="img" width="400"/>
