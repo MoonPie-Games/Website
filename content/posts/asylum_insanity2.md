@@ -8,6 +8,7 @@ tags:
   - "3D"
   - "Horror"
   - "Survival"
+  - "PC"
 thumbnail: "asylum_insanity2/Screenshot06.jpg"
 ---
 

@@ -7,6 +7,7 @@ categories:
 tags:
   - "Utility"
   - "Math"
+  - "Mobile"
 thumbnail: "calculator/feature_graphic.png"
 ---
 

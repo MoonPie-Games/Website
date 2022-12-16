@@ -7,6 +7,7 @@ categories:
 tags:
   - "Utility"
   - "Editor"
+  - "Mobile"
 thumbnail: "dot_text/DescriptionIcon.png"
 ---
 

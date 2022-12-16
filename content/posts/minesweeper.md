@@ -7,6 +7,7 @@ categories:
 tags:
   - "2D"
   - "Arcade"
+  - "Mobile"
 ---
 
 ## About
